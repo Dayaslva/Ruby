@@ -2,6 +2,8 @@
 
 Este é um projeto simples em Ruby, desenvolvido como parte de um desafio de programação. O objetivo é criar um programa que permita o cadastro de leitores de uma biblioteca, onde o usuário precisa inserir seu nome, sobrenome e idade. Essas informações serão impressas em uma única frase, o que pode ser útil para o departamento de marketing da biblioteca.
 
+> O desafio está localizado na pasta **desafio**. Para acessá-lo, navegue até a pasta e siga as instruções fornecidas.
+
 ## Funcionalidades
 
 - O usuário é solicitado a inserir seu **nome**.
